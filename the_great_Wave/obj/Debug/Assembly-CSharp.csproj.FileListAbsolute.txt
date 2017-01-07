@@ -1,0 +1,65 @@
+X:\Game Projects\GreatWave 2d\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.pdb
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEditor.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Unity.SerializationLogic.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Unity.DataContract.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Unity.UNetWeaver.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Unity.CecilTools.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.xml
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEditor.xml
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.xml
+X:\Game Projects\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.xml
+X:\Game Projects\GreatWave 2d\obj\Debug\Assembly-CSharp.dll
+X:\Game Projects\GreatWave 2d\obj\Debug\Assembly-CSharp.pdb
+F:\GreatWave 2d\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\GreatWave 2d\obj\Debug\Assembly-CSharp.dll
+F:\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.dll
+F:\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\GreatWave 2d\Temp\bin\Debug\UnityEditor.dll
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.dll
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.dll
+F:\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.dll
+F:\GreatWave 2d\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\GreatWave 2d\Temp\bin\Debug\Unity.DataContract.dll
+F:\GreatWave 2d\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\GreatWave 2d\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\GreatWave 2d\Temp\bin\Debug\Unity.CecilTools.dll
+F:\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.xml
+F:\GreatWave 2d\Temp\bin\Debug\UnityEditor.xml
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.xml
+F:\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\GreatWave 2d\obj\Debug\Assembly-CSharp.pdb
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Assembly-CSharp.pdb
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEditor.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Unity.SerializationLogic.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Unity.DataContract.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Unity.UNetWeaver.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Unity.CecilTools.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.xml
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEditor.xml
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.UI.xml
+X:\Game Projects\Game\GreatWave 2d\Temp\bin\Debug\UnityEngine.Networking.xml
+X:\Game Projects\Game\GreatWave 2d\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+X:\Game Projects\Game\GreatWave 2d\obj\Debug\Assembly-CSharp.dll
+X:\Game Projects\Game\GreatWave 2d\obj\Debug\Assembly-CSharp.pdb
+F:\Game\GreatWave 2d\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Game\GreatWave 2d\obj\Debug\Assembly-CSharp.dll
