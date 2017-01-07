@@ -1,0 +1,52 @@
+/*
+Author: Siyi Emily Bao
+Student Number: 10103388
+CISC 282 Assignment #3
+*/
+#homepage{
+	
+	padding-bottom:20px;
+	width: 1240px;
+	margin: 0 auto;
+	
+}
+
+#title{
+	font-family: 'Pacifico', cursive;
+    text-align:center;
+    font-size:200%;
+    color:white;
+    margin: auto;
+    border:1px solid black;
+    border-radius: 50%;
+    background:black;
+
+}
+
+/*Format style for links*/
+
+a:link {
+  text-decoration: none;
+  color: #000099;
+  letter-spacing: 500;
+  font-weight:bold;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #666666;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #0B243B;
+  background: #F5A9A9;
+}
+
+
+#copyright{
+	position:relative;
+	text-align:center;
+	
+}

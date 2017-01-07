@@ -1,0 +1,139 @@
+body{
+	overflow:scroll;
+}
+
+#title {
+	margin: auto;
+    border:1px solid #585858;
+	border-radius: 25px;
+    text-align:center;
+	background:#585858;
+	width:500px;
+	color:white;
+	font-family: verdana;
+	font-size:200%	
+}
+/*
+To make the "About" and "Statistics" section headings red, bolded and aligned to the left
+*/
+.HeadingFont {
+	font: 20px bold;
+	color:red;
+	text-align:left;	
+}
+
+
+#about{
+	font-family: verdana;
+	float:left;
+	width:40%;
+	height:400px;
+	display:inline-block;
+	overflow: hidden;
+	border:2px solid black;
+	padding:10px;
+	background:white;
+	margin: 0;
+	border-radius: 15px 50px 30px 5px;
+
+}
+#statistics{
+	font-family: verdana;
+	float:right;
+	width:40%;
+	height:400px;
+	display:inline-block;
+	overflow: hidden;
+	border:2px solid black;
+	padding:10px;
+	background:white;
+	margin: 0;
+	border-radius: 15px 50px 30px 5px;
+
+}
+
+/*Picture*/
+.picture{
+	position:relative;
+    overflow: hidden;
+	white-space: nowrap;
+	display: inline-block;
+	margin: 0 10px;
+	float: left;
+	margin-top:20px;
+	margin-bottom:20px;
+    text-align: center;
+}
+
+img{
+	width:262px;
+	height:262px;
+	border:2px solid black;
+}
+
+
+#homepage{
+	padding-bottom:20px;
+	width: 940px;
+	margin: 0 auto;
+}
+
+/*Format style for links*/
+
+a:link {
+  text-decoration: none;
+  color: #000099;
+  letter-spacing: 500;
+  font-weight:bold;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #666666;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #0B243B;
+  background: #F5A9A9;
+}
+
+.panel{
+	margin-top:440px;
+	width:100%;
+	height:350px;
+	border: 2px solid #A4A4A4;
+	background-color: #A4A4A4;
+	border-radius: 15px 50px 30px;
+	
+}
+
+#pic_color{
+	background:#585858;
+	margin-left:50px;
+	border-top:2px;
+	border-bottom:2px;	
+}
+
+#memory{
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+	text-align:justify;
+	padding: 15px;
+	width:100%;
+	position:relative;
+	float:center;
+	font-family: 'Indie Flower', cursive;
+	font-size:150%;
+	margin-top:20px;
+	border-top:5px solid black; 
+	border-bottom: 5px solid black;
+}
+
+#copyright{
+	position:relative;
+	text-align:center;
+	
+}
